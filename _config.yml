@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GUCBrain AI Event"
 email: "devfest@gdg.org.ua"
 description: "GUCBrain AI Event is an international event that will be held @ GUC in November"
-baseurl: "/zeppelin"
+# baseurl: "/zeppelin"
 url: "https://gucbrain.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"

@@ -34,7 +34,6 @@ twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
@@ -43,11 +42,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -60,9 +59,9 @@ heroTitle: "GUCBrain AI Event <typeout>"
 eventDate: "24th - 27th November, 2019"
 typeoutTextValues: '"", "Artificial Intelligence", "Machine Learning", "Data Science"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# heroButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GUCBrain AI Event"

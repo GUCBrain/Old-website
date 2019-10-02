@@ -69,7 +69,7 @@
   title: Lecture_2
   # TODO: update with right description
   description: "TUM University"
-  speakers: [5]
+  speakers: [4]
   language: en
 -
   id: 003
@@ -101,7 +101,6 @@
   id: 007
   title: Presentations and Winners Announcement
   description: "Candidates will present their projects to the judges then winners will be announced"
-  language: en
 -
   id: 008
   title: Workshop
